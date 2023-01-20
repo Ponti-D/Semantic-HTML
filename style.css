@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+    font-family: "Helvetica Neue", "Arial", "sans-serif";
+
+}
+.header {
+    text-align:left;
+    background-color:teal;
+    padding: 0px;
+    width: 100%;
+   
+}
+
+.image {
+   width: 50%;
+   
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+.navbar {
+    overflow: hidden;
+    background-color:rgb(76, 133, 240);
+    top: 0;
+
+   
+  }
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+.navbar a:hover {background-color:black;}
+.navbar a:focus{
+    background-color: lightgrey;
+    color: black;
+}
+
+div.preferences{
+ background-color:blanchedalmond;
+}
